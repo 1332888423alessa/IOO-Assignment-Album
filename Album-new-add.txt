@@ -1,0 +1,45 @@
+Children's Favourite Songs
+S 1 Mary Had a Little Lamb
+4
+8.0 Mary had a little lamb,
+8.2 Little lamb, little lamb,
+8.0 Mary had a little lamb,
+9.1 Its fleece was white as snow.
+S 2 Twinkle, twinkle, little star
+6
+4.4 Twinkle, twinkle, little star
+4.2 How I wonder what you are
+4.8 Up above the world so high
+5.0 Like a diamond in the sky
+4.4 Twinkle, twinkle, little star
+5.9 How I wonder what you are
+D 3 Eensy Weensy Spider
+9 9
+0.0 Eensy weensy spider
+0.0 crawled up the water spout.
+0.0 Down came the rain,
+0.0 and washed the spider out.
+0.0 Out came the sun 
+0.0 and dried up all the rain,
+0.0 -
+0.0 and eensy weensy spider
+0.0 crawled up the spout again.
+0.0 -
+0.0 Eensy weensy spider
+0.0 crawled up the water spout.
+0.0 Down came the rain,
+0.0 and washed the spider out.
+0.0 Out came the sun 
+0.0 and dried up all the rain,
+0.0 and eensy weensy spider
+0.0 crawled up the spout again
+S 4 ertyuio
+2
+1.1  ertyui
+1.1  ertyuio
+S 5 Baa Baa Black Sheep
+4
+8.0 Baa, baa, black sheep, have you any wool?
+8.0 Yes sir, yes sir, three bags full.
+8.0 One for my master, one for my dame,
+7.0 And one for the little boy who lives down the lane.

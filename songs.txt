@@ -1,0 +1,12 @@
+Songs
+S 1 The First Song
+2
+4.0 Line 1, Display for 4 seconds.
+5.0 Line 2, Display for 5 seconds.
+D 2 The Second Song
+3 2
+4.0 Line 1, Singer 1, Display for 4 seconds.
+5.0 Line 2, Singer 1, Display for 5 seconds.
+6.0 Line 3, Singer 1, Display for 6 seconds.
+7.0 Line 1, Singer 2, Display for 7 seconds.
+8.0 Line 4, Singer 2, Display for 8 seconds. 
